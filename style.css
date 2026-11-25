@@ -1,0 +1,18 @@
+section{
+    background-image: url(./Screenshot\ 2026-11-20\ 121159.png);
+height: 500px; 
+width: 100%;
+background-attachment: fixed;
+display: flex;
+color: aliceblue;
+
+}
+   .box1{
+background-image: url(./Screenshot\ 2026-11-08\ 160140.png);
+color: blueviolet;
+
+   }
+   .box2{
+    background-image: url(./Screenshot\ 2026-11-20\ 115821.png);
+    color: aqua;
+   }
